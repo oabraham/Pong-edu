@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sulfu\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\sulfu\\my project\\assets\\ballmovent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\ballmovent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\sulfu\\My project\\assets\\paddlemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\paddlemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\sulfu\\My project\\assets\\scoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Scoring.cs",
+              "DocumentMoniker": "C:\\Users\\sulfu\\My project\\Assets\\Scoring.cs",
+              "RelativeDocumentMoniker": "Assets\\Scoring.cs",
+              "ToolTip": "C:\\Users\\sulfu\\My project\\Assets\\Scoring.cs",
+              "RelativeToolTip": "Assets\\Scoring.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T20:13:11.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BallMovent.cs",
+              "DocumentMoniker": "C:\\Users\\sulfu\\My project\\Assets\\BallMovent.cs",
+              "RelativeDocumentMoniker": "Assets\\BallMovent.cs",
+              "ToolTip": "C:\\Users\\sulfu\\My project\\Assets\\BallMovent.cs",
+              "RelativeToolTip": "Assets\\BallMovent.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T19:46:31.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaddleMovement.cs",
+              "DocumentMoniker": "C:\\Users\\sulfu\\My project\\Assets\\PaddleMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\PaddleMovement.cs",
+              "ToolTip": "C:\\Users\\sulfu\\My project\\Assets\\PaddleMovement.cs",
+              "RelativeToolTip": "Assets\\PaddleMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T19:06:51.596Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
